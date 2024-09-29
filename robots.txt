@@ -1,3 +1,9 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /config/
+
+User-agent: Googlebot
 Disallow:
+
+Sitemap: https://www.yoursite.com/sitemap.xml
