@@ -6,4 +6,4 @@ Disallow: /config/
 User-agent: Googlebot
 Disallow:
 
-Sitemap: https://www.yoursite.com/sitemap.xml
+Sitemap: https://imgtowebp.honeybam.com/sitemap.xml
