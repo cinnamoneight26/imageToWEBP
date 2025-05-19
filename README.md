@@ -29,3 +29,8 @@ imageToWEBP is a delightful web application that allows users to easily upload i
 - **JavaScript**: For dynamic functionality
 - **JSZip**: For creating downloadable ZIP archives
 - **React-Bootstrap + Toastify**: For UI and notifications
+
+## 📬 Contact
+Have questions, suggestions, or found a bug?
+Feel free to reach out via email: cinnamon.eight26@gmail.com
+We welcome your feedback!
